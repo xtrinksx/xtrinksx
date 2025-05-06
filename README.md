@@ -20,5 +20,9 @@ Estou começando minha jornada no mundo da tecnologia, e acredito que o aprendiz
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xtrinksx&show_icons=true&theme=tokyonight&hide_title=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtrinksx&layout=compact&theme=tokyonight" />
+</p>
 
 ## 🚀 Linguagens e Tecnologias
