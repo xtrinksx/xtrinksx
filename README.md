@@ -14,7 +14,7 @@ Atualmente, me dedico a aprender e praticar os fundamentos de desenvolvimento we
 
 Estou começando minha jornada no mundo da tecnologia, e acredito que o aprendizado contínuo e a troca de experiências com a comunidade são essenciais para crescer nesse campo! 
 
-📫 Contato: iisaacmatos8@gmail.com
+📫 Contato: iisaacmatos@gmail.com
 
 ---
 
